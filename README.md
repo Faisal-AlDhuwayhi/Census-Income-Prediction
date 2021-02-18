@@ -33,7 +33,7 @@ This will open the iPython Notebook software and project file in your browser.
 ## Result
 After cleaning and preparing the data for the models, cross-validation has been done and other operations to compare between the models.
 
-Finally, **The Random Forest Classifier** has been chosen, for achieving very high results in terms of evaluation metrics. **A 93% Accuracy score & and also the same result for F1-score**.
+Finally, **The Random Forest Classifier** has been chosen, for achieving very high results in terms of evaluation metrics. **A 93% accuracy score, also the same result for F1-score**.
 
 
 
